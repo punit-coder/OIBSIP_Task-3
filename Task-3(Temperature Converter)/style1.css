@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(60, 15, 60);
+}
+.box{
+    text-align: center;
+    margin: 13rem;
+}
+ 
+input{
+    border-color: black;
+    background-color: rgb(244, 254, 254);
+    box-shadow: 0px 5px 25px orchid;
+    height: 58%;
+    width: 17%;
+    border-radius: 5px;
+    font-size: 25px;
+}
+h1{
+    color: yellow;
+    font-weight: 300;
+}
+
+label{
+    color: white;
+    font-size: x-large;
+    font-weight: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn{
+    background-color: darkblue;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 300;
+    height: auto;
+    width: 145px;
+    border: 2px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.btn:hover{
+    background-color: #ff3;
+    color: #2704a7;
+    font-size: 13px;
+    font-weight: 300;
+    height: auto;
+    width: 145px;
+    border: 2px;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: #ffffff;
+}
+
+.reset{
+    background-color: rgb(17, 95, 88);
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: 100;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: auto;
+    width: 145px;
+    border: 2px;
+    padding: 2px;
+    border-radius: 25px;
+}
+.reset:hover{
+    background-color: rgb(255, 0, 0);
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: 100;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: auto;
+    width: 145px;
+    border: 2px;
+    padding: 2px;
+    border-radius: 25px;
+}
